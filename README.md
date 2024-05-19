@@ -1,2 +1,2 @@
-# HotelRoomBookingSystem
-Project for Sirma Academy
+# Hotel Room Booking System
+
